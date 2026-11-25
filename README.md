@@ -12,7 +12,7 @@ Entry for the [make.fun bounty](https://make.fun/bounty/post-x-promote-make-your
 One post from the public X account **@Todokashiki** quoting
 [make.fun's make-your-own-bounty post](https://x.com/makefunai/status/2124915864336236646),
 with a photo attached, carrying `make.fun` / `@makefunai` and the play code
-`makefun-beacon-lantern-oak`. The post's address is recorded in
+`makefun-fresco-parsley-crow` (one of this bounty's four play codes). The post's address is recorded in
 [`POST.json`](./POST.json). Places are decided by the sum of the post's
 replies, reposts and quotes at the deadline; likes and views do not count.
 
